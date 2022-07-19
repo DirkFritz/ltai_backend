@@ -1,0 +1,13 @@
+Flask
+google-cloud-storage
+pandas
+datetime
+mysql-connector-python
+gunicorn
+sklearn
+flask-cors
+
+
+
+
+

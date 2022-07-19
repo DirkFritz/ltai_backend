@@ -1,0 +1,6 @@
+analyzer/__pycache__/asset.cpython-310.pyc
+analyzer/__pycache__/index.cpython-310.pyc
+analyzer/__pycache__/stock.cpython-310.pyc
+db/__pycache__/db.cpython-310.pyc
+db/__pycache__/dbqueries.cpython-310.pyc
+db/__pycache__/helper.cpython-310.pyc
